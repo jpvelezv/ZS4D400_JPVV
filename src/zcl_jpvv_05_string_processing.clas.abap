@@ -1,4 +1,4 @@
-CLASS zcl_jpvv_5_string_processing DEFINITION
+CLASS zcl_jpvv_05_string_processing DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_5_string_processing IMPLEMENTATION.
+CLASS zcl_jpvv_05_string_processing IMPLEMENTATION.
 
 
 

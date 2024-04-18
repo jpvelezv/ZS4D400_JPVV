@@ -1,4 +1,4 @@
-CLASS zcl_jpvv_9_sim_internal_tables DEFINITION
+CLASS zcl_jpvv_09_sim_internal_table DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_9_sim_internal_tables IMPLEMENTATION.
+CLASS zcl_jpvv_09_sim_internal_table IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

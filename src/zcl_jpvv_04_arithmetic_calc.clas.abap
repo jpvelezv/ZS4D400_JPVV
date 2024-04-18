@@ -1,4 +1,4 @@
-CLASS zcl_jpvv_4_arithmetic_calc DEFINITION
+CLASS zcl_jpvv_04_arithmetic_calc DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_4_arithmetic_calc IMPLEMENTATION.
+CLASS zcl_jpvv_04_arithmetic_calc IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

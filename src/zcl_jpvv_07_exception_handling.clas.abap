@@ -1,4 +1,4 @@
-CLASS zcl_jpvv_7_exception_handling DEFINITION
+CLASS zcl_jpvv_07_exception_handling DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_7_exception_handling IMPLEMENTATION.
+CLASS zcl_jpvv_07_exception_handling IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

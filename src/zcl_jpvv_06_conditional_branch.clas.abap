@@ -1,4 +1,4 @@
-CLASS zcl_jpvv_6_conditional_branch DEFINITION
+CLASS zcl_jpvv_06_conditional_branch DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_6_conditional_branch IMPLEMENTATION.
+CLASS zcl_jpvv_06_conditional_branch IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

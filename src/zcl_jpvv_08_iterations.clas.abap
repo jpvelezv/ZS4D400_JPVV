@@ -1,4 +1,4 @@
-CLASS zcl_jpvv_8_iterations DEFINITION
+CLASS zcl_jpvv_08_iterations DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_8_iterations IMPLEMENTATION.
+CLASS zcl_jpvv_08_iterations IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
