@@ -1,0 +1,11 @@
+@EndUserText.label: 'Learning - CDS Access Control'
+@MappingRole: true
+define role ZS4DJPVV_ACCESS_CONTROL {
+    grant 
+        select
+            on
+                zs4djpvv_AIRPORTS_WITH_DCL
+                    where
+                        (country) = aspect pfcg_auth(/DMO/TRVL, /DMO/CNTRY, ACTVT = '03');
+                        
+}
