@@ -26,6 +26,12 @@
      <MSGNR>003</MSGNR>
      <TEXT>Departure and destination airports must not be te same</TEXT>
     </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZS4D400_JPVV</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Connection &amp;1 &amp;2 does not exist.</TEXT>
+    </T100>
    </T100>
   </asx:values>
  </asx:abap>
