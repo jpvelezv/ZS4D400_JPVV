@@ -1,0 +1,11 @@
+@EndUserText.label: 'Employee'
+@MappingRole: true
+define role ZCJPVV_EMPLOYEE {
+    grant
+        select
+            on
+                ZCJPVV_EMPLOYEE
+                    where
+                        inheriting conditions from entity ZRJPVV_EMPLOYEE;
+                        
+}
