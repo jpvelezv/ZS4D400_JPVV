@@ -1,0 +1,21 @@
+CLASS zcl_jpvv_30_prueba DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_jpvv_30_prueba IMPLEMENTATION.
+
+
+  METHOD if_oo_adt_classrun~main.
+    "BAS
+  ENDMETHOD.
+ENDCLASS.
