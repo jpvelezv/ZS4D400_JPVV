@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_20_truncation_roundin IMPLEMENTATION.
+CLASS ZCL_JPVV_20_TRUNCATION_ROUNDIN IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_23_table_reductions IMPLEMENTATION.
+CLASS ZCL_JPVV_23_TABLE_REDUCTIONS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

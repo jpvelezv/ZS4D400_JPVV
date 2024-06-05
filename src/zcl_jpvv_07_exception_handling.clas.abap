@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_07_exception_handling IMPLEMENTATION.
+CLASS ZCL_JPVV_07_EXCEPTION_HANDLING IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

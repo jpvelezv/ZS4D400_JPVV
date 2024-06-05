@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_23_secondary_key IMPLEMENTATION.
+CLASS ZCL_JPVV_23_SECONDARY_KEY IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

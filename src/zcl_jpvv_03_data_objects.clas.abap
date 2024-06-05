@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_03_data_objects IMPLEMENTATION.
+CLASS ZCL_JPVV_03_DATA_OBJECTS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

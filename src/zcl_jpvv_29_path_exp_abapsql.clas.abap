@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_29_path_exp_abapsql IMPLEMENTATION.
+CLASS ZCL_JPVV_29_PATH_EXP_ABAPSQL IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

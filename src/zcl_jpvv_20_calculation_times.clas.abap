@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_20_calculation_times IMPLEMENTATION.
+CLASS ZCL_JPVV_20_CALCULATION_TIMES IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

@@ -10,7 +10,10 @@ CLASS zcl_jpvv_10_debug DEFINITION
 ENDCLASS.
 
 
-CLASS zcl_jpvv_10_debug IMPLEMENTATION.
+
+CLASS ZCL_JPVV_10_DEBUG IMPLEMENTATION.
+
+
   METHOD if_oo_adt_classrun~main.
 
 * Declarations
@@ -121,5 +124,4 @@ CLASS zcl_jpvv_10_debug IMPLEMENTATION.
               ).
 
   ENDMETHOD.
-
 ENDCLASS.

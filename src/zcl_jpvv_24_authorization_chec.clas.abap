@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_24_authorization_chec IMPLEMENTATION.
+CLASS ZCL_JPVV_24_AUTHORIZATION_CHEC IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

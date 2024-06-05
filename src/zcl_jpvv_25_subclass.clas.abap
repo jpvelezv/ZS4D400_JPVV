@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_25_subclass IMPLEMENTATION.
+CLASS ZCL_JPVV_25_SUBCLASS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

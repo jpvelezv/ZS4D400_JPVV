@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_23_duplicate_record IMPLEMENTATION.
+CLASS ZCL_JPVV_23_DUPLICATE_RECORD IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

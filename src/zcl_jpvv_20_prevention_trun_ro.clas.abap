@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_20_prevention_trun_ro IMPLEMENTATION.
+CLASS ZCL_JPVV_20_PREVENTION_TRUN_RO IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

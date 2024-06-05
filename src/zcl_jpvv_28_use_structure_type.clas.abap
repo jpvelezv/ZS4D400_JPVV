@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_28_use_structure_type IMPLEMENTATION.
+CLASS ZCL_JPVV_28_USE_STRUCTURE_TYPE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

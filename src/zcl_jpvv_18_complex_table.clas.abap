@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_18_complex_table IMPLEMENTATION.
+CLASS ZCL_JPVV_18_COMPLEX_TABLE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

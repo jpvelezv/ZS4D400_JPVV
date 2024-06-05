@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_30_prueba IMPLEMENTATION.
+CLASS ZCL_JPVV_30_PRUEBA IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

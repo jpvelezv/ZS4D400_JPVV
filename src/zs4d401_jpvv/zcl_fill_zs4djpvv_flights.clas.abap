@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_fill_zs4djpvv_flights IMPLEMENTATION.
+CLASS ZCL_FILL_ZS4DJPVV_FLIGHTS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

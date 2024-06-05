@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_14_encapsulation IMPLEMENTATION.
+CLASS ZCL_JPVV_14_ENCAPSULATION IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
@@ -72,5 +72,4 @@ CLASS zcl_jpvv_14_encapsulation IMPLEMENTATION.
       out->write( connection->get_output( ) ).
     ENDLOOP.
   ENDMETHOD.
-
 ENDCLASS.

@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_13_funcional_exercise IMPLEMENTATION.
+CLASS ZCL_JPVV_13_FUNCIONAL_EXERCISE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
@@ -92,5 +92,4 @@ CLASS zcl_jpvv_13_funcional_exercise IMPLEMENTATION.
     ENDLOOP.
 
   ENDMETHOD.
-
 ENDCLASS.

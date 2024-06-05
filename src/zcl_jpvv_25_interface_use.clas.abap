@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_25_interface_use IMPLEMENTATION.
+CLASS ZCL_JPVV_25_INTERFACE_USE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
@@ -41,7 +41,3 @@ CLASS zcl_jpvv_25_interface_use IMPLEMENTATION.
 *    ENDLOOP.
   ENDMETHOD.
 ENDCLASS.
-
-
-
-

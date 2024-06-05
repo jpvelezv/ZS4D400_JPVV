@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_09_sim_internal_table IMPLEMENTATION.
+CLASS ZCL_JPVV_09_SIM_INTERNAL_TABLE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

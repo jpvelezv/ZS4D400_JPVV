@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_04_arithmetic_calc IMPLEMENTATION.
+CLASS ZCL_JPVV_04_ARITHMETIC_CALC IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

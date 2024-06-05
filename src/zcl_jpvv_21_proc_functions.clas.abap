@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_21_proc_functions IMPLEMENTATION.
+CLASS ZCL_JPVV_21_PROC_FUNCTIONS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

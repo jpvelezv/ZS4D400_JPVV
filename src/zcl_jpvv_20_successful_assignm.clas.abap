@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_20_successful_assignm IMPLEMENTATION.
+CLASS ZCL_JPVV_20_SUCCESSFUL_ASSIGNM IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

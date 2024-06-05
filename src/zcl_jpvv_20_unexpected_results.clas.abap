@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_20_unexpected_results IMPLEMENTATION.
+CLASS ZCL_JPVV_20_UNEXPECTED_RESULTS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

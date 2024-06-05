@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_26_exception_own IMPLEMENTATION.
+CLASS ZCL_JPVV_26_EXCEPTION_OWN IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

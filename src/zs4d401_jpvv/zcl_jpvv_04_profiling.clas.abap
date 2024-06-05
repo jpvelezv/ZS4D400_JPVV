@@ -12,7 +12,8 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_04_profiling IMPLEMENTATION.
+CLASS ZCL_JPVV_04_PROFILING IMPLEMENTATION.
+
 
   METHOD if_oo_adt_classrun~main.
     TRY.
@@ -28,5 +29,4 @@ CLASS zcl_jpvv_04_profiling IMPLEMENTATION.
         out->write(  | Exception occured | ) .
     ENDTRY.
   ENDMETHOD.
-
 ENDCLASS.

@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_02_abap_types IMPLEMENTATION.
+CLASS ZCL_JPVV_02_ABAP_TYPES IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

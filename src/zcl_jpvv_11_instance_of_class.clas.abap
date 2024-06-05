@@ -12,8 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_11_instance_of_class IMPLEMENTATION.
-
+CLASS ZCL_JPVV_11_INSTANCE_OF_CLASS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
@@ -50,5 +49,4 @@ CLASS zcl_jpvv_11_instance_of_class IMPLEMENTATION.
     APPEND connection TO connections.
 
   ENDMETHOD.
-
 ENDCLASS.

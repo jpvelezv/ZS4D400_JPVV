@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_25_interface IMPLEMENTATION.
+CLASS ZCL_JPVV_25_INTERFACE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

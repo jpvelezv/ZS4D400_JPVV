@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_copy IMPLEMENTATION.
+CLASS ZCL_JPVV_COPY IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

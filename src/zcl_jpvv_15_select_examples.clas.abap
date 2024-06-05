@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_15_select_examples IMPLEMENTATION.
+CLASS ZCL_JPVV_15_SELECT_EXAMPLES IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

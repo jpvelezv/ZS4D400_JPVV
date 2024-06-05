@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_22_select_cast_exp IMPLEMENTATION.
+CLASS ZCL_JPVV_22_SELECT_CAST_EXP IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

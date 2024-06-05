@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_22_select_case IMPLEMENTATION.
+CLASS ZCL_JPVV_22_SELECT_CASE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

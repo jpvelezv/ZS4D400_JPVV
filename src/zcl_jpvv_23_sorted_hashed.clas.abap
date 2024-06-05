@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_23_sorted_hashed IMPLEMENTATION.
+CLASS ZCL_JPVV_23_SORTED_HASHED IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

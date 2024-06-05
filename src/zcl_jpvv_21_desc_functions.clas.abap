@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_21_desc_functions IMPLEMENTATION.
+CLASS ZCL_JPVV_21_DESC_FUNCTIONS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

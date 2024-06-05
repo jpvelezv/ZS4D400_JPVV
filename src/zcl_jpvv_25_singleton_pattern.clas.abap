@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_25_singleton_pattern IMPLEMENTATION.
+CLASS ZCL_JPVV_25_SINGLETON_PATTERN IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

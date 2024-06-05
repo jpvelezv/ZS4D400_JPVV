@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_20_conversion_forced IMPLEMENTATION.
+CLASS ZCL_JPVV_20_CONVERSION_FORCED IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

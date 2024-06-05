@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_08_iterations IMPLEMENTATION.
+CLASS ZCL_JPVV_08_ITERATIONS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

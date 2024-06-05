@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_17_structure IMPLEMENTATION.
+CLASS ZCL_JPVV_17_STRUCTURE IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

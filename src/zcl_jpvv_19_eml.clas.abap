@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_19_eml IMPLEMENTATION.
+CLASS ZCL_JPVV_19_EML IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
@@ -31,5 +31,4 @@ CLASS zcl_jpvv_19_eml IMPLEMENTATION.
     out->write( `Method execution finished!`  ).
 
   ENDMETHOD.
-
 ENDCLASS.

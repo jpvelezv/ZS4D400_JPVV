@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_12_methodscall_except IMPLEMENTATION.
+CLASS ZCL_JPVV_12_METHODSCALL_EXCEPT IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

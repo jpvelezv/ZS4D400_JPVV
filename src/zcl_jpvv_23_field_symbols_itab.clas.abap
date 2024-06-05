@@ -12,8 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_23_field_symbols_itab IMPLEMENTATION.
-
+CLASS ZCL_JPVV_23_FIELD_SYMBOLS_ITAB IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_27_abapdoc IMPLEMENTATION.
+CLASS ZCL_JPVV_27_ABAPDOC IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

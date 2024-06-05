@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_22_select_join_2 IMPLEMENTATION.
+CLASS ZCL_JPVV_22_SELECT_JOIN_2 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

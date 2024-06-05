@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_22_select_distinct IMPLEMENTATION.
+CLASS ZCL_JPVV_22_SELECT_DISTINCT IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

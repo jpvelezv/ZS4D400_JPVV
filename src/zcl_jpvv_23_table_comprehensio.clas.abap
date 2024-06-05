@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_23_table_comprehensio IMPLEMENTATION.
+CLASS ZCL_JPVV_23_TABLE_COMPREHENSIO IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

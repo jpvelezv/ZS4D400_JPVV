@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_05_profiling IMPLEMENTATION.
+CLASS ZCL_JPVV_05_PROFILING IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

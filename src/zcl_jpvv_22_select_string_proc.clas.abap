@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_22_select_string_proc IMPLEMENTATION.
+CLASS ZCL_JPVV_22_SELECT_STRING_PROC IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

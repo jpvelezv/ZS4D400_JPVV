@@ -12,8 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_05_string_processing IMPLEMENTATION.
-
+CLASS ZCL_JPVV_05_STRING_PROCESSING IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
@@ -81,5 +80,4 @@ CLASS zcl_jpvv_05_string_processing IMPLEMENTATION.
     out->write( text11 ).
     out->write( text12 ).
   ENDMETHOD.
-
 ENDCLASS.

@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_25_factory_methods IMPLEMENTATION.
+CLASS ZCL_JPVV_25_FACTORY_METHODS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

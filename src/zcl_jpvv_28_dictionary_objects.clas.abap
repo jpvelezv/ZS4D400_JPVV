@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_28_dictionary_objects IMPLEMENTATION.
+CLASS ZCL_JPVV_28_DICTIONARY_OBJECTS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_13_funcional_methods IMPLEMENTATION.
+CLASS ZCL_JPVV_13_FUNCIONAL_METHODS IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.

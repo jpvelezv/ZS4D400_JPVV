@@ -12,7 +12,8 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_05_exercise IMPLEMENTATION.
+CLASS ZCL_JPVV_05_EXERCISE IMPLEMENTATION.
+
 
   METHOD if_oo_adt_classrun~main.
 

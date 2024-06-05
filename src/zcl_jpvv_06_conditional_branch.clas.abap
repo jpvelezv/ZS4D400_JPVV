@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_jpvv_06_conditional_branch IMPLEMENTATION.
+CLASS ZCL_JPVV_06_CONDITIONAL_BRANCH IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
